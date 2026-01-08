@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: const Text('JIGIDI Puzzle App'),
         centerTitle: false,
       ),
-      body: const Center(child: Text('Welcome to the Home Screen!')),
+      body: const Center(child: Text('Welcome to JIGIDI Puzzle App')),
     );
   }
 }
